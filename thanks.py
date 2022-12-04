@@ -1,8 +1,4 @@
 import streamlit as st
-from multiapp import MultiApp
-from apps import home, info,main, report # import your app modules here
-import streamlit as st
-import pandas as pd
 
 import requests
 from streamlit_lottie import st_lottie
