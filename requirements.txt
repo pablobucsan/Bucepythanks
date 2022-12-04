@@ -1,0 +1,10 @@
+matplotlib==3.6.2
+numpy==1.22.2
+pandas==1.4.1
+Pillow==9.3.0
+requests==2.27.1
+scipy==1.8.0
+openpyxl==3.0.9
+streamlit==1.6.0
+streamlit_lottie==0.0.3
+sympy==1.9
