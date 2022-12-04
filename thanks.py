@@ -21,7 +21,7 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 
 st.header('Email enviado! 📧')
 st.subheader('Gracias por contribuir!')
-st.write("Aqui puedes volver a [BucePy](https://www.youtube.com/) .")
+st.write("Aqui puedes volver a [BucePy](https://bucepythanks.streamlit.app/) .")
 
 def load_lottiefile(filepath:str):
     with open(filepath,'r') as f:
